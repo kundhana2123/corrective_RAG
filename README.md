@@ -29,3 +29,5 @@ Google API Key and CSE ID (for Google Custom Search)
 
 ## Run the app
 streamlit run main.py
+
+[![Demo](https://drive.google.com/file/d/1XQXS6JsMIhG63S7hu6qabrigc8vd0F0F/view?usp=sharing)](https://drive.google.com/file/d/17Gz0UOFtBUUkXpl87mqOPB_FVu3whsjI/view?usp=sharing)
