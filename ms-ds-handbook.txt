@@ -1,0 +1,1870 @@
+INDIANA UNIVERSITY
+
+DATA SCIENCE
+
+Data Science Graduate Degree Handbook
+For the Master of Data Science Degree
+2023 – 2024
+September 11, 2023
+
+Table of Contents
+1. Vision and Mission of Data Science Program...................................................................................... 3
+What is Data Science? ........................................................................................................................... 4
+Difference between Data Science and Computer Science? .................................................................. 4
+Summary of Luddy’s Master of Data Science Degree ........................................................................... 4
+Data Science is STEM............................................................................................................................ 5
+Program outcomes: what are the learning outcomes of the MS Data Science degree? ....................... 5
+Length of Program .................................................................................................................................. 5
+Academic Expectations .......................................................................................................................... 5
+Career Outlook ....................................................................................................................................... 5
+Luddy Career Services ........................................................................................................................... 6
+Student Responsibilities & Professional Ethics ...................................................................................... 6
+Commitment to Diversity and Inclusion .................................................................................................. 6
+Student organizations ............................................................................................................................. 7
+Prerequisites and Remedial Coursework ............................................................................................... 7
+Curriculum .............................................................................................................................................. 8
+Internship Course Credits ....................................................................................................................... 8
+2. Applied Data Science Track Overview and Track Requirements .................................................... 10
+3. Big Data Systems Track Overview and Requirements ..................................................................... 19
+4. Computational and Analytical Track Overview and Requirements ................................................. 24
+5. Managerial Data Science Track Overview and Requirements ......................................................... 28
+6. Other Resources ................................................................................................................................... 34
+Course Substitution and Exceptions..................................................................................................... 34
+Grades .................................................................................................................................................. 34
+Grade Appeals...................................................................................................................................... 35
+Academic Probation ............................................................................................................................. 35
+Registering for Classes ........................................................................................................................ 35
+How to Register for courses and enrollment at the shopping center? ................................................. 35
+Class Permissions ................................................................................................................................ 36
+Waitlist .................................................................................................................................................. 36
+Class Withdrawal .................................................................................................................................. 36
+Bursar Bill ............................................................................................................................................. 36
+Graduation ............................................................................................................................................ 36
+Diplomas............................................................................................................................................... 37
+Transcripts ............................................................................................................................................ 37
+Funding...................................................................................................Error! Bookmark not defined.
+Full-time Status and Part-time Status................................................................................................... 37
+Leave of Absence ................................................................................................................................. 37
+Important Student Resources............................................................................................................... 37
+Luddy Graduate Studies Office Contact ............................................................................................... 38
+
+2
+
+2023-2024 Handbook for the Master of Data Science Degree
+1. Vision and Mission of Data Science Program
+Improve the Way the World Uses Data
+As a student of the Data Science Program, you’ll prepare to become the data professional our evolving
+world needs: a holistically trained expert with the vision and skills to use data to solve problems, unite
+communities, prevent disasters, transform industries, and most importantly, improve lives.
+
+The Master of Data Science program gives our students a deep set of core competencies to see what
+tomorrow can be, and shape it every day:
+•
+•
+•
+
+Prepare students for courses in statistics, ML, data management and engineering
+Empower students to apply computation and inferential thinking to tackle real-world problems
+Enable students to start careers as data scientists by providing experience with data tools and
+techniques
+
+Director of Data Science Academic Programs
+Professor of Informatics and Computing
+Haixu Tang; hatang@indiana.edu
+Director of Graduate Studies for Data Science
+Associate Professor of Informatics
+Patrick C. Shih; patshih@indiana.edu
+Graduate Student Services
+Sam Allen, Joy Kremer, and J.T. Post; gradvise@indiana.edu
+
+3
+
+What is Data Science?
+Data science is the mining, collecting, analyzing, managing, and storing data to help make data driven
+decisions in e-commerce, finance, government, healthcare, science, social networking,
+telecommunications, politics, utilities, smart meters, education, aerospace, etc. By collecting, analyzing,
+managing, and storing data, businesses can run more efficiently and make data-driven business
+decisions.
+To prepare for a career in data science, students need to be proficient in math, statistics, and computer
+programming such as Python or R. Students need to understand the data to analyze and interpret the
+data in a meaningful way. To visualize the data, data scientists often use Tableau, Hadoop, or Apache
+Spark.
+According to KDNuggets, “data scientists are highly educated – 88% have at least a master’s degree.”
+Their undergraduate background is in computer science, statistics, social science, or physical science.
+
+Difference between Data Science and Computer Science?
+The main difference between a data scientist and a computer scientist is that a computer scientist
+develops software and data scientists use the software developed by computer scientists to analyze and
+interpret the data and identify trends.
+If you like to mine, collect, analyze, manage, and store data, perhaps you should pursue a master’s
+degree in data science degree as data scientists mine, collect, analyze, manage, and store data to help
+make data driven decisions. Data scientists have a good understanding of the data by asking and
+answering questions as they do their analysis. They are adept in pulling data from multiple sources,
+cleaning up the data, and analyzing the data to help make sound business decisions. By analyzing the
+data, the data scientist can make suggestions as to how to improve the process or how to make the
+process more efficient. When presenting the data to stakeholders, the data scientist designs, creates, and
+builds data models and data visualizations to make the data easier to understand.
+To be competitive in the job market, a large majority of companies are looking for students who have a
+bachelor’s degree coupled with a master’s degree in data science. The most common data science job
+titles are data scientist, data architect, data engineer, business analyst, or data analyst.
+If you like to build new things, perhaps you should pursue a master’s degree in computer science as
+computer scientists design, create, test, document, and debug code, software, and mobile applications.
+Often computer scientists collaborate with other computer scientists and their teams in developing a
+larger piece of software, application, or computer system.
+To be competitive in the computer science job market, you need at least a bachelor’s degree in computer
+science. Students who have a master’s degree in computer science are paid more, have more
+responsibility, and more room for advancement in a company. The most common computer science job is
+software development engineer, software developer, Java developers, systems engineer, or network
+engineer.
+It is expected that students who have degrees in data science and computer science will be in high
+demand for at least the next five to ten years. By earning a master’s degree in data science or computer
+science coupled with your undergraduate degree will give you an edge on the job market.
+
+Summary of Luddy’s Master of Data Science Degree
+The Master of Data Science degree is interdisciplinary in computer science, information science,
+informatics, statistics, engineering, and other disciplines. It prepares students to pursue a data science
+related career as a data scientist, data analyst, data architect, etc. or admission to a Ph.D. program.
+
+4
+
+To earn the Master of Data Science degree, you must successfully earn 30 graduate-level credit hours.
+The program takes two years to complete. As a Master of Data Science student, you have the option of
+focusing on one of the following four distinct tracks: (1) Applied Data Science; (2) Big Data Systems; (3)
+Computational and Analytical; and (4) Managerial Data Science.
+
+Data Science is STEM
+Data Science is in the STEM field (science, technology, engineering, or mathematics). Since the Data
+Science program is interdisciplinary and an applied program, international students are eligible for a
+STEM OPT Extension. For more information about the STEM OPT Extension and a list of qualifying
+STEM majors, go to https://ois.iu.edu/living-working/employment/f1/optional/stem-opt.html.
+
+Program outcomes: what are the learning outcomes of the MS Data Science degree?
+The Data Science program gives our students a deep set of core competencies in multiple areas—
+including programming, statistics, data analytics, machine learning, data wrangling, data visualization,
+communication, business foundations, and ethics that increase their marketability in the industry. The
+learning outcomes of the MS Data Science Residential degree are the knowledge and skills acquired in
+the program that are transferable to successfully use data to solve problems, which include:
+●
+●
+●
+●
+
+Data preparation and presentation
+Exploratory data analytics & visualization
+Model fitting and inference
+Efficient and scalable data processing
+
+Length of Program
+The Master of Data Science degree requires a student to successfully complete 30 credit hours. Master’s
+students must be enrolled full-time each semester. Typically, it takes students two years to complete the
+Master of Data Science program.
+During the first three semesters, students take nine (9) credit hours per semester and three (3) to nine (9)
+credit hours during the fourth semester. The student’s advisor, program director, and the Director of
+Graduate Studies must approve exceptions. During the summer between Year I and Year II of their
+studies, students often take an internship.
+
+Academic Expectations
+We expect students to develop as a scholar, an instructor-mentor, and a professional. As a master’s
+student and in your career, it is expected that students maintain professionalism and high standards in
+your interactions with faculty, staff, colleagues, and students as well as in your role as a researcher or
+associate instructor.
+All students must (1) maintain cumulative and semester GPAs of 3.0 or above; (2) complete coursework
+in a timely manner; (3) maintain academic integrity; (4) maintain a good academic standing; and (5)
+conduct themselves in accordance with the Indiana University’s Code of Student Rights, Responsibilities ,
+& Conduct (http://www.indiana.edu/~code/). Failure to maintain any of the above requirements will result
+in the student being placed on academic probation or dismissal from the program. Funding may be in
+jeopardy as well.
+
+Career Outlook
+Data Science is shaping the future. According to the U.S. Bureau of Labor Statistics Report, by 2031, the
+employment rate for data scientists will grow by 36% from 2021 to 2031. According to Dr. Martin
+
+5
+
+Schedlbauer, a Data Science Professor at Northeastern University, “data science careers are in high
+demand and this trend will not be slowing down any time soon, if ever.”
+The demand for data scientists is high. With a Master of Data Science degree from Indiana University’s
+Luddy School of Informatics, Computing, and Engineering, you could pursue a career as a:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Business Intelligence Developer
+Data Architect
+Data Scientist
+Data Analyst
+Data Engineer
+Decision Scientists
+Enterprise Architect
+Software Developers
+Statistician
+
+Luddy Career Services
+The Luddy School of Informatics, Computing, and Engineering’s Office of Career Services offers a variety
+of programs and services to help students find and succeed in internships and full-time jobs. The Office of
+Career Services will review student’s resumes and cover letters, will hold mock interviews, will assist in
+negotiating a hiring package, etc.
+The Indiana University’s Career Development Center is also available to Luddy graduate students.
+In the fall and spring, the Luddy Office of Career Services hosts two large career fairs. Many of the
+employers who attend these career fairs are looking to hire students for full-time employment or
+internships. For Luddy Career Outcomes, go to our Career Services Website.
+
+Student Responsibilities & Professional Ethics
+All students must abide by the Indiana University Code of Student Rights, Responsibilities, & Conduct
+(http://www.indiana.edu/~code/). This applies to scholarship, any role the student may have as an
+Associate Instructor (AI), relations with colleagues, relations with students, and compliance with academic
+standards with respect to academic ethics.
+If students are not familiar with the concept and best practices of avoiding any hint of plagiarism in
+American universities, they should become familiar with these standards. The Code provides a series of
+documents describing the behaviors, ideals, and goals for Indiana University.
+
+Commitment to Diversity and Inclusion
+Our commitment to diversity, equity, and inclusion is grounded in our aspiration to cultivate intellectual
+rigor and curiosity among our students and to prepare them to thrive in and contribute to a globally
+diverse, complex, and interconnected world. This includes creating an inclusive and multicultural
+educational landscape through the retention and recruitment of diverse students in terms of their
+backgrounds, identities and experiences, who have been traditionally underrepresented in graduate
+education. The program promotes a climate of diversity, inclusion, engagement, and achievement, which
+are integral components of graduate education and beyond.
+
+6
+
+Student organizations
+The Data Science Club at Indiana University (DSC@IU) is a student-run organization affiliated with SICE.
+All MS Data Science Residential students are encouraged to actively participate in the club. DSC@IU
+helps students acquire vital skills that will kick-start their journey into the Data Science world, through
+various means like mentorships, tutorials, seminars and study groups. The Club organizes networking
+meetups for students to connect with Alumni, Professionals, and Employers for career guidance.
+
+Moreover, it conducts Hackathons and Datathons to get hands-on experience with real-world problems
+and brings great opportunities to socialize through fun events. For information about the Data Science
+Club, email dsclub@indiana.edu.
+●
+
+Join Data Science Club at IU https://beinvolved.indiana.edu/organization/dsciu
+
+Prerequisites and Remedial Coursework
+Students who are admitted to the Master of Data Science degree are thought to be ready to start the
+program with the essential knowledge to be successful in the program. They are not required to take
+remedial coursework.
+However, if a student feels they need remedial work in math and/or programming, they may want to
+consider enrolling in the Data Science Essentials remedial self-paced package of online coursework that
+can help you prepare to be successful in the program. The remedial courses available in the Data
+Science Essentials are: Basic Linear Algebra & Calculus; Basics of Java; Basics of Python Programming;
+Introduction to C++, Introduction to R Programing; Introduction to SQL; and Introduction to MongoDB. No
+certificates or badges of understanding will be awarded as these are self-paced modules. This course is
+offered through the Luddy Office of Online Education (luddyonl@indiana.edu). The cost of this course is
+$150.
+
+7
+
+Curriculum
+The Master of Data Science degree is a 30-credit degree program offered by the Luddy School of
+Informatics, Computing, and Engineering. The curriculum consists of 15 credits of core requirements and
+the remaining 15 credits are satisfied by fulfilling the Master of Data Science track-specific requirements
+and electives.
+
+Internship Course Credits
+Curricular Practical Training (CPT) and DSCI-D591 Graduate Internship Course (0-3 credits)
+The CPT opportunity enables students to work for a company or organizations in the U.S. as an integral
+part of the established Data Science education program. Students apply their academic knowledge of the
+in-demand technical skills, working well in a group, interpreting data findings effectively to an audience in
+various formats, as well as the soft skills employers seek, prepare our graduates to use their expertise in
+the industry. Each internship will vary according to the context, industry, responsibilities, and personal
+experiences of the student.
+Whether an internship is required for degree completion?
+No, CPT is highly recommended but not required for the Data Science degree.
+Who is eligible for an internship?
+A full-time F-1 student in the Data Science Graduate program with permission from the department.
+What is the workflow of CPT?
+Here is the information page from OIS at Indiana University and SEVIS information from the US
+Department of Homeland Security. Students can fill out the CPT form and work with the Luddy Graduate
+Studies offices and OIS to get an approval.
+All internships provide opportunities to build skills in communication, time management and team
+dynamics. The student can reinforce their academic learnings with the understanding of a real-world
+corporate setting, which will help the student to make important decisions about a future career in Data
+Science.
+Do I need to enroll in DSCI-D 591?
+Yes, CPT is an experience to be integral to the student’s academic curriculum. The DSCI-D 591 course is
+created to allow students the opportunity to gain professional work experience in industry and to utilize
+skills taught in the classroom. The student will enroll in 1 credit for part-time (1-20 hours per week)
+and 2 credits for full-time (more than 20 hours per week).
+At the completion of the internship, MS DS Students are required to submit an exit letter from the
+employer stating you successfully completed the internship. We do not have a specific template for
+the exit letter but we require the following information:
+•
+•
+•
+•
+•
+
+Letter is Prepared on Company Letter Head
+Student Name
+Dates of Employment
+Internship Completion Date
+Employer Statement Indicating the Internship was Successfully Completed
+
+8
+
+MS DS students will also need to submit a summary report (1-2 pages) of what you learned for each
+internship experience. Your summary needs to document what you learned with a strong emphasis on
+the educational benefits of your internship. The summary report will not need to include any details that
+breach your employer's confidentiality. You will need to submit the exit letter and summary report to
+gradvise@indiana.edu for review. A grade will be awarded to the course when you have successfully
+completed the internship requirements.
+If DSCI-D 591 is taken to fulfill the capstone requirement, then the student may enroll in any 1 or 2
+credits Luddy course to fulfill the remaining credits.
+
+9
+
+2. Applied Data Science Track Overview and Track Requirements
+The Applied Data Science track offers the training in both the data science methods and their application
+in different domains. This track is suitable for students with an interdisciplinary background who want to
+specialize in application areas of data science.
+Students following the Applied Data Science track are required to complete 12 credit hours of core
+coursework that covers 3 credit hours of Statistical Methods, 3 credit hours of Data Mining and Search, 3
+credit hours of Data Management and Engineering, and 3 credit hours of Data Visualization and
+Storytelling. Students will specialize in 6 credit hours of a Data Science Domain. The remaining 12 credit
+hours are 3 credit hours of capstone project and 9 credit hours of electives, selected to best suit individual
+interests, needs, and overall career goals.
+
+Applied Data Science Core Requirements (12 credit Hours)
+Statistical Methods (3 credit hours)
+●
+
+STAT-S 520 Introduction to Statistics (3 cr.) P: MATH M212, M301, M303, or the equivalent.
+Basic concepts of data analysis and statistical inference, applied to 1-sample and 2-sample
+location problems, the analysis of variance, and linear regression. Prob-ability models and
+statistical methods applied to practical situ-ations and actual data sets from various disciplines.
+Elementary statistical theory, including the plug-in principle, maximum likelihood, and the method
+of least squares.
+○ Higher level statistics course may be taken with departmental approval
+
+Data Mining and Search (3 credit hours)
+●
+
+●
+
+●
+
+●
+
+●
+
+CSCI-B 551 Elements of Artificial Intelligence (3 cr.) CSCI-C 343 recommended. Introduction
+to major issues and approaches in artificial intelligence. Principles of reactive, goal-based, and
+utility-based agents. Problem-solving and search. Knowledge representation and design of
+representational vocabularies. Inference and theorem proving, reasoning under uncertainty, and
+planning. Overview of machine learning.
+CSCI-B 555 Machine Learning (3 cr.) Theory and practice of constructing algorithms that learn
+functions and choose optimal decisions from data and knowledge. Topics include:
+mathematical/probabilistic foundations, MAP classification/regression, linear and logistic
+regression, neural networks, support vector machines, Bayesian networks, tree models,
+committee machines, kernel functions, EM, density estimation, accuracy estimation,
+normalization, model selection.
+CSCI-B 565 Data Mining (3 cr.) Algorithmic and practical aspects of discovering patterns and
+relationships in large databases. The course also provides hands-on experience in data analysis,
+clustering and prediction. Topics include data preprocessing and exploration, data warehousing,
+association rule mining, classification and regression, clustering, anomaly detection, human
+factors and social issues in data mining.
+CSCI-P 556 Applied Machine Learning (3 cr.) The main aim of the course is to provide skills to
+apply machine learning algorithms on real applications. We will consider fewer learning
+algorithms and less time on math and theory and instead spend more time on hands-on skills
+required for algorithms to work on a variety of data sets.
+ENGR-E 511 Machine Learning for Signal Processing (3 cr.) The course discusses advanced
+signal processing topics as an application of machine learning. Hands-on signal processing tasks
+are introduced and tackled using a problem-solving manner, so students can grasp important
+
+10
+
+●
+
+●
+
+machine learning concepts. The course can help students learn to build an intelligent signal
+processing system in a systematic way.
+ILS-Z 534 Search (3 cr.) The success of commercial search engines shows that Information
+Retrieval is a key in helping users find the information they seek. This course provides an
+introduction to information retrieval theories and concepts underlying all search applications. We
+investigate techniques used in modern search engines and demonstrate their significance by
+experiment.
+INFO-I 606 Network Science (3 cr.) (may be counted only once) Requires strong working
+knowledge of mathematics and programming, specifically, proficiency in the topics such as
+probability, statistics, linear algebra, data structures, and algorithms. Python is the main
+programming language. This course teaches the fundamental theories, algorithms, and key
+applications of network science across social and biological systems.
+
+Data Management and Engineering (3 credit hours)
+Select one course from the following:
+●
+
+●
+
+●
+
+●
+
+CSCI-B 561 Advanced Database Concepts (3 cr.) CSCI-C 241, C 335 and C 343
+recommended. Database models and systems: especially relational and object-oriented;
+relational database design theory; structures for efficient data access; query languages and
+processing; database applications development; views. Transaction management: concurrency
+and recovery. Credit not given for both CSCI-B 561 and CSCI-B 461.
+ENGR-E 516 Engineering Cloud Computing (3 cr.) Experience with Windows or Linux using
+Java and scripts. This course covers basic concepts on programming models and tools of cloud
+computing to support data intensive science applications. Students will get to know the latest
+research topics of cloud platforms, parallel algorithms, storage, and high-level language for
+proficiency with a complex ecosystem of tools that span many disciplines.
+INFO-I 535 Management, Access, and Use of Big and Complex Data (3 cr.) Innovation today
+is emerging from a preponderance of data from sensors, social media, and the Internet. This
+course covers knowledge representation, data process, and data management for big and
+complex data. Specific topics include data integration, semantics, and provenance; workflows and
+pipelines; and distributed noSQL stores. Credit not given for both INFO-I 535 and I 435.
+DSCI-D 532 Applied Database Technologies (3 cr.) This course aims to provide the basic
+overview of the current database landscape, starting with relational databases, SQL, and moving
+to several different NoSQL databases, such as XML database, MongoDB, Neo4j, Cassandra, and
+HBase.
+
+Data Visualization and Storytelling (3 credit hours)
+Select one course from the following:
+●
+
+●
+
+●
+●
+
+ENGR-E 583 Information Visualization (3 cr.) (may be counted only once) This course provides
+students with a working knowledge on how to visualize abstract information and hands-on
+experience in the application of this knowledge to specific domains, different tasks, and diverse,
+possibly non-technical users. Credit not given for both ENGR-E 583 and E 483.
+ENGR-E 584 Scientific Visualization (3 cr.) Teaches basic principles of human cognition and
+perception; techniques and algorithms for designing and critiquing scientific visualizations in
+different domains (neuro, nano, bio-medicine, IoT, smart cities); hands-on experience using
+modern tools for designing scientific visualizations that provide novel and/or actionable insights;
+3D printing and augmented reality deployment; teamwork/project management expertise.
+INFO-I 590 Topics in Informatics
+Topic: Data Visualization (3 cr.) (may be counted only once) From dashboards in a car to
+cutting-edge scientific papers, we extensively use visual representation of data. As our world
+becomes increasingly connected and digitized and as more decisions are being driven by data,
+data visualization is becoming a critical skill for every knowledge worker. In this course we will
+
+11
+
+●
+
+learn fundamentals of data visualization and create visualizations that can provide insights into
+complex datasets.
+STAT-S 670 Exploratory Data Analysis (3 cr.) P: Two statistics courses at the graduate level,
+or consent of instructor. Numerical and graphical techniques for summarizing and displaying data.
+Ex-ploration versus confirmation. Connections with conventional statistical analysis and data
+mining. Applications to large data sets.
+
+Applied Data Science Domain (6 credit hours)
+Select one of the following domains and complete two courses within that specific domain:
+Augmented and Virtual Reality
+●
+
+INFO-I 590 Topics in Informatics
+○ Topic: Artificial Life in Virtual Reality (3 cr.) P: INFO-I 304. This course will explore
+one powerful application of virtual reality: the study of life, evolution, and artificial
+intelligence. Students will learn the basic building blocks of biological intelligence, how to
+build virtual worlds for assessing artificial intelligence, and how to populate virtual worlds
+with intelligent and autonomous artificial agents.
+○ Topic: Building Virtual Worlds (3 cr.) P: INFO-I 304. This course will explore advanced
+techniques for designing and building virtual reality worlds. Topics include rigged
+animation, spatial sound, keyframe and procedural animation, interactivity, intelligent
+cameras, advanced shaders, and particle systems. Students will develop proficiency with
+a variety of software tools, development methods, and creation techniques.
+○ Topic: Creating Virtual Assets (3 cr.) P: INFO-I 304. This course will explore advanced
+techniques for creating virtual assets for virtual reality applications. Topics include 3D
+modeling, animation, motion capture, sound capture and editing, materials, textures,
+shaders, and scripting. Students will learn how to export assets to virtual reality,
+augmented reality, video, still images, and 3D printed objects.
+○ Topic: Introduction to Virtual Reality (3 cr.) Virtual Reality has applications in fields as
+diverse as medicine, education, military training, trauma recovery, and artificial
+intelligence. In this course, students will learn the foundational skills needed to build
+virtual reality applications. We will focus on software programs for building virtual assets
+and realistic virtual environments.
+
+Data Security and Privacy
+●
+
+●
+
+●
+
+●
+
+INFO-I 520 Security for Networked Systems (3 cr.) This course is an extensive survey of
+system and network security. Course materials cover the threats to information confidentiality,
+integrity and availability and the defense mechanisms that control such threats. The course
+provides the foundation for more advanced security courses and hands-on experiences through
+course projects. Credit not given for both INFO-I 520 and I 430.INFO-I 525 Organizational
+Informatics and Economics of Security
+INFO-I 525 Organizational Informatics and Economics of Security (3 cr.) Security
+technologies make explicit organizational choices that allocate power. Security implementations
+allocate risk, determine authority, reify or alter relationships, and determine trust extended to
+organizational participants. The course begins with an introduction to relevant definitions
+(security, privacy, trust) and then moves to a series of timely case studies of security
+technologies.
+INFO-I 533 Systems and Protocol Security and Information Assurance (3 cr.) This course
+looks at systems and protocols, how to design threat models for them and how to use a large
+number of current security technologies and concepts to block specific vulnerabilities. Students
+will use a large number of systems and programming security tools in the laboratories. Credit not
+given for both INFO-I 533 and I 433.
+INFO-I 538 Introduction to Cryptography (3 cr.) This class considers issues of network
+security, treating in depth the topics covered in INFO-I 536. In particular, the class involves
+
+12
+
+adversarial modeling, a detailed treatment of security primitives, and methods for analysis of
+security. It spans the ethics and technology of security, with examples drawn both from deployed
+and proposed protocols. Topics to be covered include studies of rational and malicious cheating,
+symmetric and asymmetric cryptography, security reductions and heuristics.
+Economic Data Analytics
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+ECON-M 501 Microeconomic Theory I (3 cr.) The course develops the methodology and
+language of price theory. Partial equilibrium analysis of consumer theory, producer theory, and
+economics of uncertainty. Emphasis on comparative statics and the duality theory. Topics include
+welfare analysis, the theory of price indices, quality of goods, revealed preferences, the theory of
+derived demand, expected utility theory, attitudes toward risk, and various measures of riskiness.
+ECON-M504: Econometrics I (3 cr.) Emphasis is on the probability and statistical theory
+underpinning the classical linear regression model used in economic applications. Special topics
+include finite and asymptotic properties of point and interval estimation, hypothesis testing and
+model building. Several software packages such as Stata or R are used in computer lab
+applications.
+ECON-M511: Microeconomic Theory II (3 cr.) General equilibrium theory; welfare economics;
+microeconomics of capital theory; monopoly, oligopoly and game theory, product differentiation,
+monopolistic competition. Price discrimination. Economics of Information including adverse
+selection, moral hazard and principal agent models.
+ECON-M514: Econometrics II (3 cr.) Emphasis is on the matrix formulation and computer
+estimation methods for single and multiple equation models using economic and business data.
+Attention is given to the assumptions required for testing sets of coefficients and model
+structures. Special topics include heteroscedasticity, multicollinearity, errors in variables,
+simultaneity, time-series analysis, limited dependent variables, sample selection, and alternatives
+to least squares estimation.
+ECON-M518: Econometrics: Big Data (3 cr.) The course consists of discussion of how to
+import, clean and visualize data on the computer, an introduction to popular tools from machine
+learning and an overview on recent advances on combining machine learning methods with
+economic models to conduct causal inference. Use of software package R to analyze large
+models and large economic data sets.
+ECON-M524: Financial Econometrics (3 cr.) The course covers the econometrics toolboxes
+that are useful to analyze financial market data, in particular, time series data. The goal is to
+understand and implement state-of-the-art econometric methods with the data at hand, providing
+answers to empirical questions. While the course intends to put more emphasis on
+implementation, and less on rigorous theory, learning some heuristics behind the theory is
+important part of the course. Topics include stationary time series analysis, persistency,
+predictive regression, model selection, factor models, and advanced topics.
+
+Health and Biomedical Data Science
+●
+
+●
+
+●
+
+INFO-I 507 Introduction to Health Informatics (3 cr.) This is a combined advanced
+undergraduate and graduate course that provides an introduction to health informatics. By the
+end of the course, students will be able to describe and apply informatics methods that improve
+health and well being.
+INFO-I 519 Introduction to Bioinformatics (3 cr.) One semester programming course or
+equivalent recommended. Sequence alignment and assembly; RNA structure, protein and
+molecular modeling; genomics and proteomics; gene prediction; phylogenetic analysis;
+information and machine learning; visual and graphical analysis bioinformatics; worldwide
+biological databases; experimental design and data collection techniques; scientific and statistical
+data analysis; database and data mining methods; and network and Internet methods.
+INFO-I 529 Machine Learning in Bioinformatics (3 cr.) INFO-I 519 or equivalent knowledge
+recommended. The course covers advanced topics in Bioinformatics with a focus on machine
+learning. The course will review existing techniques such as hidden Markov models, artificial
+neural networks, decision trees, stochastic grammars, and kernel methods. Examine application
+
+13
+
+●
+
+of these techniques to current bioinformatics problems including: genome annotation and
+comparison, gene finding, RNA secondary structure prediction, protein structure prediction, gene
+expression analysis, proteomics, and integrative functional genomics.
+MGEN-Q 581 Introduction to Quantitative Biomedical Sciences (IU Indianapolis) (3 cr.)
+(may be counted only once) This course is designed to introduce students to diverse topics in the
+quantitative biomedical sciences connecting basic biology concepts with advanced quantitative
+methodologies. It will serve as an introductory course for students with either basic biology or
+computational backgrounds. The topics cover bioinformatics, medical informatics, imaging
+informatics, and data sciences.
+
+Human Robotic Interaction
+●
+●
+●
+●
+
+●
+
+●
+
+CSCI-B 657 Computer Vision (3 cr.) P: CSCI-B 551. Concepts and methods of machine vision
+as a branch of artificial intelligence. Basics of digital image processing. Local and global tools for
+deriving information from image data. Model-based object recognition and scene understanding.
+ENGR-E 599 Topics in Intelligent Systems Engineering
+○ Topic: Autonomous Robotics (3 cr.)
+INFO-I 513 Usable Artificial Intelligence (3 cr.) Building foundational skills in machine learning,
+natural language processing, and artificial intelligence for data collection, data analysis, data
+visualization, and decision-making.
+INFO-I 527 Mobile and Pervasive Design (3 cr.) The aim of this course is to provide students
+with the ability to design and implement novel interactions with mobile and pervasive
+technologies. We will discuss interaction paradigms and explore different technologies. Students
+will design, build, implement and refine mobile and pervasive computing applications for their
+domain of interest.
+INFO-I 540 Human Robot Interaction (3 cr.) This course surveys the field of human-robot
+interaction (HRI), which involves understanding how people perceive and respond to robots and
+creating robots that interact naturally with people. We will discuss the design, evaluation and
+societal significance of interactive robots from a human-centered perspective through readings,
+discussion and developing HRI prototypes. Credit given for only one of INFO-I 540, I 440 or H
+440.
+INFO-I 542 Foundations of HCI (3 cr.) "Foundations of HCI" offers a survey overview of the field
+of Human-Computer Interaction Design. It introduces the main themes of HCI set generally in a
+historical context. Themes include interaction design, cognitive modeling, distributed cognition,
+computer-supported cooperative work, data visualization, ubiquitous computing, affective
+computing, and domestic computing, among others.
+
+Social Data Science
+●
+
+●
+
+●
+
+ENGR-E 583 Information Visualization (3 cr.) (may be counted only once) This course provides
+students with a working knowledge on how to visualize abstract information and hands-on
+experience in the application of this knowledge to specific domains, different tasks, and diverse,
+possibly non-technical users. Credit not given for both ENGR-E 583 and E 483.
+ILS-Z 604 Topics in Library and Information Science
+○ Topic: Music Data Mining (3 cr.) This course gives an introductory overview of the field
+of music data mining, which is the process of extracting invaluable information from
+digital audio signals and various music-related text data, such as lyrics, music reviews,
+and social tags. Lab tasks and the final project will provide hands-on experiences in
+applying machine learning and deep learning techniques to those various kinds of music
+data. Topics covered in this course include audio and textual data analysis, classification,
+clustering, and recommendation.
+ILS-Z 639 Social Media Mining (3 cr.) Basic Unix skills recommended. This course provides a
+graduate-level introduction to social media mining and methods. The course provides hands-on
+experience mining social data for social meaning extraction (focus on sentiment analysis) using
+automated methods and machine learning technologies. We will read, discuss, and critique
+claims and findings from contemporary research related to SMM.
+
+14
+
+●
+●
+
+●
+
+INFO-I 513 Usable Artificial Intelligence (3 cr.) Building foundational skills in machine learning,
+natural language processing, and artificial intelligence for data collection, data analysis, data
+visualization, and decision-making.
+INFO-I 590 Topics in Informatics
+○ Topic: Data Visualization (3 cr.) (may be counted only once) From dashboards in a car
+to cutting-edge scientific papers, we extensively use visual representation of data. As our
+world becomes increasingly connected and digitized and as more decisions are being
+driven by data, data visualization is becoming a critical skill for every knowledge worker.
+In this course we will learn fundamentals of data visualization and create visualizations
+that can provide insights into complex datasets.
+INFO-I 606 Network Science (3 cr.) (may be counted only once) Requires strong working
+knowledge of mathematics and programming, specifically, proficiency in the topics such as
+probability, statistics, linear algebra, data structures, and algorithms. Python is the main
+programming language. This course teaches the fundamental theories, algorithms, and key
+applications of network science across social and biological systems.
+
+Applied Data Science Capstone Project (3 credit Hours)
+Students will be required to work on a project that applies the knowledge and skills learned to solve realworld problems for a company, organization, or individual. This may be fulfilled through a capstone
+course, an internship, or an independent study project. The aim of this requirement is to demonstrate
+students' capabilities to prospective employers and inspire innovation.
+●
+
+●
+
+●
+
+●
+
+●
+
+DSCI-D 590 Topics in Data Science
+○ Topic: Faculty Assistance in Data Science (1-3 cr.) The Faculty Assistance in Data
+Science program provides faculty with access to expertise and assistance in advanced
+data analytics, visualization, and development for the purpose of catalyzing their
+research. This program pairs faculty from across the campus in any discipline with
+graduate students pursuing a M.S. in Data Science through the Luddy School of
+Informatics, Computing, and Engineering for summer research projects.
+DSCI-D 591 Graduate Internship (0-3 cr.) Department Approval. Students gain professional
+work experience in an industry or research organization setting using skills and knowledge
+acquired in Data Science coursework. A written report will be required upon completion of the
+experience. May be repeated for a maximum of 6 credit hours.
+DSCI-D 592 Data Science in Practice (3 cr.) Students gain critical, practical skills in applying
+data science to real world problems. Students will work in teams of 3-5 to tackle a real-world
+problem defined by a project sponsor. Project sponsors can be academics or industry
+practitioners. Students work with the project sponsor to understand the problem domain, identify
+where their data science skills can be applied, and to design, implement and test a solution.
+DSCI-D 699 Graduate Independent Study in Data Science (1-6 cr.) Must be a student in the
+Data Science graduate program. Independent Study under the direction of a faculty member,
+culminating in a written report and/or database development and/or documented laboratory
+experience. May be repeated 2 times for a maximum of 9 credit hours.
+INFO-I 590 Topics in Informatics
+○ Topic: Luddy Artificial Intelligence Development and Experience Laboratory (1-3
+cr.) This is an on-campus research practicum for Luddy graduate students that allows
+participants to develop new AI applications or apply existing AI technology to new
+problems. As part of the LAIDEL practicum, students will have a chance to apply their
+existing and learn new skills while working on a class project with external organizations
+and industry partners. The external partners provide a real-world problem specification,
+which is then assigned to a team of students, along with a mentor from the external
+partner’s organization. The student teams will explore the problem, create and execute a
+proposed solution, and upon completion will receive academic credit for their
+experiences. Throughout the course, students will get an opportunity to network with
+external partners and learn more about their organization and potential careers within it.
+
+15
+
+●
+
+●
+
+ILS-Z 690 Capstone in Information Architecture (3 cr.) The capstone course integrates within
+a single project the theoretical and practical components of the Information Architecture
+Certificate program. Working with one of the program co-directors, who serves as the student's
+project advisor, the student will determine both the scope and extent of the project. The student
+will publicly present and defend the capstone project upon completion.
+MGEN-Q 581 Introduction to Quantitative Biomedical Sciences (IU Indianapolis) (3 cr.)
+(may be counted only once) This course is designed to introduce students to diverse topics in the
+quantitative biomedical sciences connecting basic biology concepts with advanced quantitative
+methodologies. It will serve as an introductory course for students with either basic biology or
+computational backgrounds. The topics cover bioinformatics, medical informatics, imaging
+informatics, and data sciences.
+
+Applied Data Science Electives (9 credit Hours)
+The remaining 9 credit hours are selected from unselected courses above or additional data sciencerelated course offerings within the Luddy School of Informatics, Computing, and Engineering. Students
+may not earn credit for courses taken to fulfill core, domain, or capstone requirements.
+•
+•
+
+No more than three (3) credit hours of DSCI-D 591 may be earned
+No more than three (3) credit hours total may be earned in DSCI-D 590 Basic Data Science OnRamp and DSCI-D 590 Advanced Data Science On-Ramp
+
+16
+
+Applied Data Science Track Sample Schedule of Courses
+The following is a sample schedule of courses for the Applied Data Science Track. Students should
+consult with their advisor and the Director of Graduate Studies in order to select courses that will best
+support their plans and career goals.
+Sample Schedule of Courses
+Fall Year 1 (9 cr.)
+Core Course (3 cr.)
+Core Course (3 cr.)
+Data Science Domain Course (3 cr.)
+
+Spring Year 1 (9 cr.)
+Core Course (3 cr.)
+Core Course (3 cr.)
+Data Science Doman Course (3 cr.)
+
+Fall Year 2 (9 cr.)
+Elective (3 cr.)
+Elective (3 cr.)
+Elective (3 cr.)
+
+Spring Year 2 (3 cr.)
+Capstone Project (3 cr.)
+Elective (3 cr.) (optional)
+Elective (3 cr.) (optional)
+
+17
+
+Applied Data Science Track Degree Audit Form
+Core Requirement (12 credit hours)
+Statistical Methods (3 cr.)
+Data Management and Engineering (3 cr.)
+STAT-S 520 Introduction to Statistics
+ENGR-E 516 Engineering Cloud Computing
+Data Mining and Search (3 cr.)
+CSCI-B 561 Advanced Database Concepts
+CSCI-B 551 Elements of AI
+INFO-I 535 Management, Access, and Use of Big and
+Complex Data
+CSCI-B 555 Machine Learning
+DSCI-D 532 Applied Database Technologies
+CSCI-B 565 Data Mining
+Data Visualization and Storytelling (3 cr.)
+CSCI-P 556 Applied Machine Learning
+ENGR-E 583 Information Visualization
+ENGR-E 511 Machine Learning for Signal Processing
+ENGR-E 584 Scientific Visualization
+ILS-Z 534 Search
+INFO-I 590 Topic: Data Visualization
+INFO-I 606 Network Science
+STAT-S 670 Exploratory Data Analysis
+Data Science Domain (6 credit hours)
+Augmented and Virtual Reality
+Data Security and Privacy
+INFO-I 590 Topic: Artificial Life in Virtual Reality
+INFO-I 520 Security for Networked Systems
+INFO-I 590 Topic: Building Virtual Worlds
+INFO-I 525 Organizational Informatics and Economics of
+Security
+INFO-I 590 Topic: Creating Virtual Assets
+INFO-I 533 Systems and Protocol Security and
+Information Assurance
+INFO-I 590 Topic: Introduction to Virtual Reality
+INFO-I 538 Introduction to Cryptography
+Human Robotic Interaction
+Econ Data Analytics
+CSCI-B 657 Computer Vision
+ECON-M501 Microeconomic Theory I
+ENGR-E 599 Topic: Autonomous Robotics
+ECON-M504 Econometrics I
+INFO-I 513 Usable Artificial Intelligence
+ECON-M511 Microeconomic Theory II
+INFO-I 527 Mobile and Pervasive Design
+ECON-M514 Econometrics II
+INFO-I 540 Human Robot Interaction
+ECON-M518 Econometrics: Big Data
+INFO-I 542 Foundations of HCI
+ECON-M524 Financial Econometrics
+Health and Biomedical Data Science
+Social Data Science
+INFO-I 507 Introduction to Health Informatics
+ENGR-E 583 Information Visualization
+INFO-I 519 Introduction to Bioinformatics
+ILS-Z 604 Topic: Music Data Mining
+INFO-I 529 Machine Learning in Bioinformatics
+ILS-Z 639 Social Media Mining
+MGEN-Q 581 Introduction to Quantitative Biomedical
+INFO-I 513 Usable Artificial Intelligence
+Sciences (IU Indianapolis)
+INFO-I 590 Topic: Data Visualization
+INFO-I 606 Network Science
+Capstone Project (3 credit hours)
+Electives (9 credit hours)
+DSCI-D 590 Topic: Faculty Assistance in Data Science
+DSCI-D 591 Graduate Internship
+DSCI-D 592 Data Science in Practice
+DSCI-D 699 Independent Study in Data Science
+INFO-I 590 Topic: LAIDEL
+ILS-Z 690 Capstone in Information Architecture
+MGEN-Q 581 Introduction to Quantitative Biomedical
+Sciences (IU Indianapolis)
+
+18
+
+3. Big Data Systems Track Overview and Requirements
+The Big Data Systems track focuses on the development and engineering of software systems for
+collecting, managing, and mining massive data. This is most suitable for students with a background in
+computer science or engineering who prefer hands-on and project-based learning.
+Students following the Big Data Systems track are required to complete 21 credit hours of core
+coursework that covers 3 credit hours of Statistical Methods, 6 credit hours of AI and Machine Learning, 9
+credit hours of Big Data, Cloud Computing, and Visualization, and 3 credit hours of Core Engineering.
+The remaining 9 credit hours are electives, selected to best suit individual interests, needs, and overall
+career goals.
+Pre-requisites: Students in this program need to have a solid foundation in STEM course work,
+specifically the following:
+●
+●
+●
+
+Proficient level of programming experience in C, Java or Python
+Familiarity with R and MATLAB is useful
+Calculus I and II and basic understanding of probability and elements of discrete math
+
+Big Data Systems Track Core Requirements (21 credit Hours)
+Statistical Methods (3 credit hours)
+Select one course from the following:
+●
+●
+
+SPEA-V 506 Statistical Analysis for Effective Decision-making
+STAT-S 520 Introduction to Statistics
+○ Students who have completed equivalent prior coursework in statistics can opt to take an
+additional elective in lieu of one of the Statistical Methods courses
+
+AI and Machine Learning for Engineering (6 credit hours)
+Select two courses from the following:
+●
+
+●
+
+●
+
+CSCI-B 555 Machine Learning (3 cr.) Theory and practice of constructing algorithms that learn
+functions and choose optimal decisions from data and knowledge. Topics include:
+mathematical/probabilistic foundations, MAP classification/regression, linear and logistic
+regression, neural networks, support vector machines, Bayesian networks, tree models,
+committee machines, kernel functions, EM, density estimation, accuracy estimation,
+normalization, model selection.
+CSCI-B 565 Data Mining (3 cr.) Algorithmic and practical aspects of discovering patterns and
+relationships in large databases. The course also provides hands-on experience in data analysis,
+clustering and prediction. Topics include data preprocessing and exploration, data warehousing,
+association rule mining, classification and regression, clustering, anomaly detection, human
+factors and social issues in data mining.
+CSCI-P 556 Applied Machine Learning (3 cr.) The main aim of the course is to provide skills to
+apply machine learning algorithms on real applications. We will consider fewer learning
+algorithms and less time on math and theory and instead spend more time on hands-on skills
+required for algorithms to work on a variety of data sets.
+
+19
+
+●
+
+●
+
+●
+
+ENGR-E 511 Machine Learning for Signal Processing (3 cr.) The course discusses advanced
+signal processing topics as an application of machine learning. Hands-on signal processing tasks
+are introduced and tackled using a problem-solving manner, so students can grasp important
+machine learning concepts. The course can help students learn to build an intelligent signal
+processing system in a systematic way.
+ENGR-E 533 Deep Learning Systems (3 cr.) This course teaches the pipeline for building stateof-the-art deep learning-based intelligent systems. It covers general training mechanisms and
+acceleration options that use GPU computing libraries and parallelization techniques running on
+high performance computing systems. The course also aims at deploying the networks to the lowpowered hardware systems.
+ENGR-E 536 High Performance Graph Analytics (3 cr.) This course covers theoretical and
+practical concepts in large-scale graph analytics with applications to social networks,
+computational biology, machine learning and scientific computing. It will demonstrate graph
+algorithms by analyzing large-scale social and biological networks using high-performance graph
+analytics frameworks. Design principles for parallel graph algorithms will be discussed.
+
+Big Data, Cloud Computing, and Visualization (9 credit hours)
+Select three courses from the following:
+●
+
+●
+
+●
+
+●
+●
+
+●
+
+●
+
+●
+
+CSCI-B 561 Advanced Database Concepts (3 cr.) CSCI-C 241, C 335 and C 343
+recommended. Database models and systems: especially relational and object-oriented;
+relational database design theory; structures for efficient data access; query languages and
+processing; database applications development; views. Transaction management: concurrency
+and recovery. Credit not given for both CSCI-B 561 and CSCI-B 461.
+ENGR-E 516 Engineering Cloud Computing (3 cr.) Experience with Windows or Linux using
+Java and scripts. This course covers basic concepts on programming models and tools of cloud
+computing to support data intensive science applications. Students will get to know the latest
+research topics of cloud platforms, parallel algorithms, storage, and high-level language for
+proficiency with a complex ecosystem of tools that span many disciplines.
+ENGR-E 522 HPC and Cloud Computing for Large Scale Image Applications (3 cr.) Java
+and Python will be used as programming languages. Understanding of machine learning and/or
+image processing is helpful. This course describes big data techniques for sensors and remote
+sensing explaining how one architects analysis systems for sensors and remote imagery.
+Algorithms, software systems, and storage issues are addressed. The impact of user interfaces is
+covered. Streaming and batch examples from satellite, internet of things and physics data.
+ENGR-E 534 Big Data Applications (3 cr.) This is an overview course of Big Data Applications
+covering a broad range of problems and solutions. It covers cloud computing technologies and
+includes a project. Algorithms are introduced and illustrated.
+ENGR-E 583 Information Visualization (3 cr.) This course provides students with a working
+knowledge on how to visualize abstract information and hands-on experience in the application of
+this knowledge to specific domains, different tasks, and diverse, possibly non-technical users.
+Credit not given for both ENGR-E 583 and E 483.
+ENGR-E 584 Scientific Visualization (3 cr.) Teaches basic principles of human cognition and
+perception; techniques and algorithms for designing and critiquing scientific visualizations in
+different domains (neuro, nano, bio-medicine, IoT, smart cities); hands-on experience using
+modern tools for designing scientific visualizations that provide novel and/or actionable insights;
+3D printing and augmented reality deployment; teamwork/project management expertise.
+ENGR-E 616 Advanced Cloud Computing (3 cr.) This course describes Cloud 3.0 in which
+DevOps, Microservices, and Function as a Service is added to basic cloud computing. The
+discussion is centered around the Apache Big Data Stack and a major student project aimed at
+demonstrating integration of cloud capabilities.
+ENGR-E 623 Applied Streaming Data Systems Java, C, and Python will be used as
+programming languages. This course covers the software and algorithm engineering of streaming
+data systems in the cloud with an emphasis on use in industry and the internet of things.
+
+20
+
+Core Engineering (3 credit hours)
+Select one course from the following:
+●
+●
+
+●
+
+●
+
+ENGR-E 503 Introduction to Intelligent Systems (3 cr.) This course covers fundamental
+principles and five use cases with special attention to challenges and opportunities coming from
+modern computing infrastructure, the internet of things and artificial intelligence.
+ENGR-E 517 High Performance Computing (3 cr.) Students will learn about the development,
+operation, and application of HPC systems prepared to address future challenges demanding
+capability and expertise. The course combines critical elements from hardware technology and
+architecture, system software and tools, and programming models and application algorithms with
+the cross-cutting theme of performance management and measurement.
+ENGR-E 535 Image Processing for Medical Applications (3 cr.) Learn how to build intelligent
+algorithms and software for medical imaging that can help medical doctors to treat their patients
+and researchers to understand how the body works. Students will be familiarized with algorithmic
+techniques such as tracking, denoising, warping, segmentation, model fitting, optimization and
+interactive visualization of medical datasets.
+ENGR-E 551 Simulating Nanoscale Systems (3 cr.) Students will learn how to model and
+simulate material behavior at the nanoscale. Analysis and control of shape, assembly, and flow
+behavior in soft nanomaterials will be discussed. Applications to engineering problems at the
+nanoscale will be emphasized. Optimization methods, nonequilibrium systems, and parallel
+computing will be covered.
+
+Big Data Systems Electives (9 credit Hours)
+The remaining 9 credit hours can be selected from unselected courses above or additional data sciencerelated course offerings within the Luddy School of Informatics, Computing, and Engineering. Students
+may not earn credit for courses taken to fulfill core requirements.
+•
+•
+
+No more than three (3) credit hours of DSCI-D 591 may be earned
+No more than three (3) credit hours total may be earned in DSCI-D 590 Basic Data Science OnRamp and DSCI-D 590 Advanced Data Science On-Ramp
+
+21
+
+Big Data Systems Track Sample Schedule of Courses
+The following is a sample schedule of courses for the Big Data Systems Track. Students should consult
+with their advisor and the Director of Graduate Studies in order to select courses that will best support
+their plans and career goals.
+Sample Schedule of Courses
+Fall Year 1 (9 cr.)
+
+Spring Year 1 (9 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Elective (3 cr.)
+
+Fall Year 2 (9 cr.)
+
+Spring Year 2 (3 cr.)
+
+Core Course (3 cr.)
+
+Elective (3 cr.)
+
+Core Course (3 cr.)
+
+Elective (3 cr.) (optional)
+
+Elective (3 cr.)
+
+Elective (3 cr.) (optional)
+
+22
+
+Big Data Systems Track Degree Audit Form
+Core Requirement (21 credit hours)
+Statistical Methods (3 cr.)
+AI and Machine Learning for Engineering (6 cr.)
+SPEA-V 506 Statistical Analysis for Effective
+CSCI-B 555 Machine Learning
+Decision-making
+STAT-S 520 Introduction to Statistics
+CSCI-B 565 Data Mining
+Big Data, Cloud Computing, and Visualization (9 CSCI-P 556 Applied Machine Learning
+cr.)
+CSCI-B 561 Advanced Database Concepts
+ENGR-E 511 Machine Learning for Signal
+Processing
+ENGR-E 516 Engineering Cloud Computing
+ENGR-E 533 Deep Learning Systems
+ENGR-E 522 HPC and Cloud Computing for
+ENGR-E 536 High Performance Graph
+Large Scale Image Applications
+Analytics
+ENGR-E 534 Big Data Applications
+Core Engineering (3 cr.)
+ENGR-E 583 Information Visualization
+ENGR-E 503 Introduction to Intelligent
+Systems
+ENGR-E 584 Scientific Visualization
+ENGR-E 517 High Performance Computing
+ENGR-E 616 Advanced Cloud Computing
+ENGR-E 535 Image Processing for Medical
+Applications
+ENGR-E 623 Applied Streaming Data Systems
+ENGR-E 551 Simulating Nanoscale Systems
+Electives (9 credit hours)
+
+23
+
+4. Computational and Analytical Track Overview and Requirements
+The Computational and Analytical track focuses on the foundational data science methods. This
+track is most suitable for students with a background in computer science, statistics, or
+mathematics who wish to dive deeper into the mechanics of data science methodologies.
+Students following the Computational and Analytical track are required to complete 15 credit
+hours of core coursework that covers 3 credit hours of Data Systems Foundation, 3 credit hours
+of Algorithmic Foundation, 6 credit hours of Data Analytics Foundation, and 3 credit hours of Big
+Data Infrastructures. The remaining 15 credit hours are electives, selected to best suit individual
+interests, needs, and overall career goals.
+Computational and Analytical Core Requirements (15 credit Hours)
+Data Systems Foundation (3 credit hours)
+●
+
+CSCI-B 561 Advanced Database Concepts (3 cr.) CSCI-C 241, C 335 and C 343
+recommended. Database models and systems: especially relational and object-oriented;
+relational database design theory; structures for efficient data access; query languages and
+processing; database applications development; views. Transaction management: concurrency
+and recovery. Credit not given for both CSCI-B 561 and B 461.
+
+Algorithmic Foundation (3 credit hours)
+Select one course from the following:
+●
+
+●
+
+CSCI-B 503 Algorithms Design and Analysis (3 cr.) Models, algorithms, recurrences,
+summations, growth rates. Probabilistic tools, upper and lower bounds; worst-case and averagecase analysis, amortized analysis, dynamization. Comparison-based algorithms: search,
+selection, sorting, hashing. Information extraction algorithms (graphs, databases). Graphs
+algorithms: spanning trees, shortest paths, connectivity, depth-first search, breadth-first search.
+CSCI-B 505 Applied Algorithms (3 cr.) The course studies the design, implementation, and
+analysis of algorithms and data structures as applied to real world problems. The topics include
+divide-and-conquer, optimization, and randomized algorithms applied to problems such as
+sorting, searching, and graph analysis. The course teaches trees, hash tables, heaps, and
+graphs.
+
+Data Analytics Foundations (6 credit hours)
+●
+
+STAT-S 520 Introduction to Statistics (3 cr.) P: MATH M212, M301, M303, or the equivalent.
+Basic concepts of data analysis and statistical inference, applied to 1-sample and 2-sample
+location problems, the analysis of variance, and linear regression. Prob-ability models and
+statistical methods applied to practical situ-ations and actual data sets from various disciplines.
+Elementary statistical theory, including the plug-in principle, maximum likelihood, and the method
+of least squares.
+○ Higher level statistics course may be taken with departmental approval
+
+Select one additional course from the following:
+
+24
+
+●
+
+●
+
+CSCI-B 555 Machine Learning (3 cr.) Theory and practice of constructing algorithms that learn
+functions and choose optimal decisions from data and knowledge. Topics include:
+mathematical/probabilistic foundations, MAP classification/regression, linear and logistic
+regression, neural networks, support vector machines, Bayesian networks, tree models,
+committee machines, kernel functions, EM, density estimation, accuracy estimation,
+normalization, model selection.
+CSCI-B 565 Data Mining (3 cr.) Algorithmic and practical aspects of discovering patterns and
+relationships in large databases. The course also provides hands-on experience in data analysis,
+clustering and prediction. Topics include data preprocessing and exploration, data warehousing,
+association rule mining, classification and regression, clustering, anomaly detection, human
+factors and social issues in data mining.
+
+Big Data Infrastructure (3 credit hours)
+Select one course from the following:
+●
+
+●
+
+●
+
+ENGR-E 516 Engineering Cloud Computing (3 cr.) Experience with Windows or Linux using
+Java and scripts. This course covers basic concepts on programming models and tools of cloud
+computing to support data intensive science applications. Students will get to know the latest
+research topics of cloud platforms, parallel algorithms, storage, and high-level language for
+proficiency with a complex ecosystem of tools that span many disciplines.
+INFO-I 535 Management, Access, and Use of Big and Complex Data (3 cr.) Innovation today
+is emerging from a preponderance of data from sensors, social media, and the Internet. This
+course covers knowledge representation, data process, and data management for big and
+complex data. Specific topics include data integration, semantics, and provenance; workflows and
+pipelines; and distributed noSQL stores. Credit not given for both INFO-I 535 and I 435.
+DSCI-D 532 Applied Database Technologies (3 cr.) This course aims to provide the basic
+overview of the current database landscape, starting with relational databases, SQL, and moving
+to several different NoSQL databases, such as XML database, MongoDB, Neo4j, Cassandra, and
+HBase.
+
+Computational and Analytical Electives (15 credit Hours)
+The remaining 15 credit hours can be selected from unselected courses above or additional data sciencerelated course offerings within the Luddy School of Informatics, Computing, and Engineering. Students
+may not earn credit for courses taken to fulfill core requirements.
+•
+•
+
+No more than three (3) credit hours of DSCI-D 591 may be earned
+No more than three (3) credit hours total may be earned in DSCI-D 590 Basic Data Science OnRamp and DSCI-D 590 Advanced Data Science On-Ramp
+
+25
+
+Computational and Analytical Track Sample Schedule of courses
+The following is a sample schedule of courses for the Computational and Analytical Track. Students
+should consult with their advisor and the Director of Graduate Studies in order to select courses that will
+best support their plans and career goals.
+Sample Schedule of Courses
+Fall Year 1 (9 cr.)
+
+Spring Year 1 (9 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Elective (3 cr.)
+
+Elective (3 cr.)
+
+Fall Year 2 (9 cr.)
+
+Spring Year 2 (3 cr.)
+
+Core Course (3 cr.)
+
+Elective (3 cr.)
+
+Elective (3 cr.)
+
+Elective (3 cr.) (optional)
+
+Elective (3 cr.)
+
+Elective (3 cr.) (optional)
+
+26
+
+Computational and Analytical Track Degree Audit Form
+Core Requirement (15 credit hours)
+Data Systems Foundation (3 cr.)
+Algorithmic Foundation (3 cr.)
+CSCI-B 561 Advanced Database Concepts
+CSCI-B 503 Algorithms Design and Analysis
+Data Analytics Foundation (6 cr.)
+CSCI-B 505 Applied Algorithms
+STAT-S 520 Introduction to Statistics
+Big Data Infrastructure (3 cr.)
+CSCI-B 555 Machine Learning
+ENGR-E 516 Engineering Cloud Computing
+CSCI-B 565 Data Mining
+INFO-I 535 Management, Access, and Use of
+Big Complex Data
+DSCI-D 532 Applied Database Technologies
+Electives (15 credit hours)
+
+27
+
+5. Managerial Data Science Track Overview and Requirements
+The managerial data science track combines advanced knowledge in database systems and
+programming languages with strong interpersonal and project management skills. This track is most
+suitable for students with prior work experience who wish to develop organizational and project
+management skills.
+Students following the Managerial Data Science track are required to complete 21 credit hours of core
+coursework that covers 3 credit hours of Statistical Methods, 3 credit hours of Machine Learning, Data
+Mining, and Text Mining, 3 credit hours of Data Visualization and Storytelling, 6 credit hours of
+Management in Theory, and 6 credit hours of Management in Practice. The remaining 9 credit hours are
+3 credit hours of capstone project and 6 credit hours of electives, selected to best suit individual interests,
+needs, and overall career goals.
+Statistical Methods (3 credit hours)
+Select one course from the following:
+●
+
+●
+
+SPEA-V 506: Statistical Analysis for Effective Decision-Making (3 cr.) Non-calculus survey of
+concepts in probability, estimation, and hypothesis testing. Applications of contingency table
+analysis; analysis of variance, regression, and other statistical techniques. Computer processing
+of data emphasized.
+STAT-S 520: Introduction to Statistics (3 cr.) Basic concepts of data analysis and statistical
+inference, applied to 1-sample and 2-sample location problems, the analysis of variance, and
+linear regression. Probability models and statistical methods applied to practical situations and
+actual data sets from various disciplines. Elementary statistical theory, including the plug-in
+principle, maximum likelihood, and the method of least squares.
+○ Higher level statistics course may be taken with departmental approval
+
+Machine Learning, Data Mining, and Text Mining (3 credit hours)
+Select one course from the following:
+●
+
+●
+
+●
+
+CSCI-B 505 Applied Algorithms (3 cr.) The course studies the design, implementation, and
+analysis of algorithms and data structures as applied to real world problems. The topics include
+divide-and-conquer, optimization, and randomized algorithms applied to problems such as
+sorting, searching, and graph analysis. The course teaches trees, hash tables, heaps, and
+graphs.
+CSCI-B 551 Elements of Artificial Intelligence (3 cr.) CSCI-C 343 recommended. Introduction
+to major issues and approaches in artificial intelligence. Principles of reactive, goal-based, and
+utility-based agents. Problem-solving and search. Knowledge representation and design of
+representational vocabularies. Inference and theorem proving, reasoning under uncertainty, and
+planning. Overview of machine learning.
+CSCI-B 555 Machine Learning (3 cr.) Theory and practice of constructing algorithms that learn
+functions and choose optimal decisions from data and knowledge. Topics include:
+mathematical/probabilistic foundations, MAP classification/regression, linear and logistic
+regression, neural networks, support vector machines, Bayesian networks, tree models,
+committee machines, kernel functions, EM, density estimation, accuracy estimation,
+normalization, model selection.
+
+28
+
+●
+
+●
+
+●
+●
+
+●
+
+●
+
+●
+●
+
+CSCI-B 561 Advanced Database Concepts (3 cr.) CSCI-C 241, C 335 and C 343
+recommended. Database models and systems: especially relational and object-oriented;
+relational database design theory; structures for efficient data access; query languages and
+processing; database applications development; views. Transaction management: concurrency
+and recovery. Credit not given for both CSCI-B 561 and CSCI-B 461.
+CSCI-B 565 Data Mining (3 cr.) Algorithmic and practical aspects of discovering patterns and
+relationships in large databases. The course also provides hands-on experience in data analysis,
+clustering and prediction. Topics include data preprocessing and exploration, data warehousing,
+association rule mining, classification and regression, clustering, anomaly detection, human
+factors and social issues in data mining.
+CSCI-B 657 Computer Vision (3 cr.) Concepts and methods of machine vision as a branch of
+artificial intelligence. Basics of digital image processing. Local and global tools for deriving
+information from image data. Model-based object recognition and scene understanding.
+CSCI-P 556 Applied Machine Learning (3 cr.) The main aim of the course is to provide skills to
+apply machine learning algorithms on real applications. We will consider fewer learning
+algorithms and less time on math and theory and instead spend more time on hands-on skills
+required for algorithms to work on a variety of data sets.
+ENGR-E 511 Machine Learning for Signal Processing (3 cr.) The course discusses advanced
+signal processing topics as an application of machine learning. Hands-on signal processing tasks
+are introduced and tackled using a problem-solving manner, so students can grasp important
+machine learning concepts. The course can help students learn to build an intelligent signal
+processing system in a systematic way.
+ILS-Z 534 Search (3 cr.) The success of commercial search engines shows that Information
+Retrieval is a key in helping users find the information they seek. This course provides an
+introduction to information retrieval theories and concepts underlying all search applications. We
+investigate techniques used in modern search engines and demonstrate their significance by
+experiment.
+INFO-I 513 Usable Artificial Intelligence (3 cr.) Building foundational skills in machine learning,
+natural language processing, and artificial intelligence for data collection, data analysis, data
+visualization, and decision-making.
+INFO-I 606 Network Science (3 cr.) Requires strong working knowledge of mathematics and
+programming, specifically, proficiency in the topics such as probability, statistics, linear algebra,
+data structures, and algorithms. Python is the main programming language. This course teaches
+the fundamental theories, algorithms, and key applications of network science across social and
+biological systems.
+
+Data Visualization and Storytelling (3 credit hours)
+Select one course from the following:
+●
+
+●
+
+●
+
+ENGR-E 583 Information Visualization (3 cr.) This course provides students with a working
+knowledge on how to visualize abstract information and hands-on experience in the application of
+this knowledge to specific domains, different tasks, and diverse, possibly non-technical users.
+Credit not given for both ENGR-E 583 and E 483.
+ENGR-E 584 Scientific Visualization (3 cr.) Teaches basic principles of human cognition and
+perception; techniques and algorithms for designing and critiquing scientific visualizations in
+different domains (neuro, nano, bio-medicine, IoT, smart cities); hands-on experience using
+modern tools for designing scientific visualizations that provide novel and/or actionable insights;
+3D printing and augmented reality deployment; teamwork/project management expertise.
+INFO-I 590 Topics in Informatics
+○ Topic: Data Visualization (3 cr.) From dashboards in a car to cutting-edge scientific papers,
+we extensively use visual representation of data. As our world becomes increasingly
+connected and digitized and as more decisions are being driven by data, data visualization is
+becoming a critical skill for every knowledge worker. In this course we will learn fundamentals
+of data visualization and create visualizations that can provide insights into complex datasets.
+
+29
+
+Management in Theory (6 credit hours)
+Select two courses from the following:
+●
+
+●
+
+●
+
+ILS-Z 513 Organizational Informatics (3 cr.) Introduction to information, technology, and social
+behavior in the organizational context. Concepts of organization theory and organization
+behavior, including knowledge and information management, organizational analytics, and
+organizational intelligence, provide a critical foundation for managing information, people, and
+information and communication technologies (ICTs) in rapidly changing and dynamic
+environments.
+ILS-Z 645 Social and Organizational Informatics of Big Data (3 cr.) This course surveys
+organizational, legal, political, and social issues surrounding the creation, dissemination and use
+of big data from the perspective of social and organizational informatics. It focuses on ways in
+which the integration of big data is changing structure, culture, and work practices in private and
+public sector organizations.
+ILS-Z 604 Topics in Library and Information Science
+○ Topic: Social and Ethical Impacts of Big Data (3 cr.) This course introduces students to
+new social and ethical challenges arising from the use of data in a broad sense, and the
+technical and societal approaches to address such challenges. More specifically, this course
+provides a survey of the social, political, legal, and organizational issues that surround the
+creation, dissemination, and use of big data from the perspective of social informatics.
+
+Management in Practice (6 credit hours)
+Select two courses from the following:
+●
+
+●
+
+●
+
+ILS-Z 512: Information Systems Design (3 cr.) Students identify, design, and implement a
+significant information design project, such as the redesign of a complex Website for a local
+business, library, or nonprofit. Principles and practices of project management are discussed in
+the context of team-based website redesign.
+ILS-Z 556: Systems Analysis & Design (3 cr.) This course introduces the basic concepts
+underlying systems analysis and design, focusing on contextual inquiry/design and data
+modeling, as well as the application of those analysis techniques in the analysis and design of
+organizational information systems.
+ILS-Z 586 Digital Curation (3 cr.) Preserving and providing long-term access to digital materials
+over time is a Grand Challenge. They require constant and ongoing maintenance. This course
+provides an overview of research, policy and current practices in curating and preserving digital
+data, gives students practical experience, working with digital materials, and creating digital
+curation plans.
+
+Managerial Data Science Capstone Project (3 credit Hours)
+Students will be required to work on a project that applies the knowledge and skills learned to solve realworld problems for a company, organization, or individual. This may be fulfilled through a capstone
+course, an internship, or an independent study project. The aim of this requirement is to demonstrate
+students' capabilities to prospective employers and inspire innovation.
+●
+
+●
+
+DSCI-D 590 Topics in Data Science
+○ Topic: Faculty Assistance in Data Science (1-3 cr.) The Faculty Assistance in Data
+Science program provides faculty with access to expertise and assistance in advanced
+data analytics, visualization, and development for the purpose of catalyzing their
+research. This program pairs faculty from across the campus in any discipline with
+graduate students pursuing a M.S. in Data Science through the Luddy School of
+Informatics, Computing, and Engineering for summer research projects.
+DSCI-D 591 Graduate Internship (0-3 cr.) Department Approval. Students gain professional
+work experience in an industry or research organization setting using skills and knowledge
+
+30
+
+●
+
+●
+
+●
+
+●
+
+●
+
+acquired in Data Science coursework. A written report will be required upon completion of the
+experience. May be repeated for a maximum of 6 credit hours.
+DSCI-D 592 Data Science in Practice (3 cr.) Students gain critical, practical skills in applying
+data science to real world problems. Students will work in teams of 3-5 to tackle a real-world
+problem defined by a project sponsor. Project sponsors can be academics or industry
+practitioners. Students work with the project sponsor to understand the problem domain, identify
+where their data science skills can be applied, and to design, implement and test a solution.
+DSCI-D 699 Graduate Independent Study in Data Science (1-6 cr.) Must be a student in the
+Data Science graduate program. Independent Study under the direction of a faculty member,
+culminating in a written report and/or database development and/or documented laboratory
+experience. May be repeated 2 times for a maximum of 9 credit hours.
+INFO-I 590 Topics in Informatics
+○ Topic: Luddy Artificial Intelligence Development and Experience Laboratory (1-3
+cr.) This is an on-campus research practicum for Luddy graduate students that allows
+participants to develop new AI applications or apply existing AI technology to new
+problems. As part of the LAIDEL practicum, students will have a chance to apply their
+existing and learn new skills while working on a class project with external organizations
+and industry partners. The external partners provide a real-world problem specification,
+which is then assigned to a team of students, along with a mentor from the external
+partner’s organization. The student teams will explore the problem, create and execute a
+proposed solution, and upon completion will receive academic credit for their
+experiences. Throughout the course, students will get an opportunity to network with
+external partners and learn more about their organization and potential careers within it.
+ILS-Z 690 Capstone in Information Architecture (3 cr.) The capstone course integrates within
+a single project the theoretical and practical components of the Information Architecture
+Certificate program. Working with one of the program co-directors, who serves as the student's
+project advisor, the student will determine both the scope and extent of the project. The student
+will publicly present and defend the capstone project upon completion.
+MGEN-Q 581 Introduction to Quantitative Biomedical Sciences (IU Indianapolis) (3 cr.) This
+course is designed to introduce students to diverse topics in the quantitative biomedical sciences
+connecting basic biology concepts with advanced quantitative methodologies. It will serve as an
+introductory course for students with either basic biology or computational backgrounds. The
+topics cover bioinformatics, medical informatics, imaging informatics, and data sciences.
+
+Managerial Data Science Electives (6 credit Hours)
+The remaining 6 credit hours can be selected from unselected courses above or additional data sciencerelated course offerings within the Luddy School of Informatics, Computing, and Engineering. Students
+may not earn credit for courses taken to fulfill core requirements.
+•
+•
+
+No more than three (3) credit hours of DSCI-D 591 may be earned
+No more than three (3) credit hours total may be earned in DSCI-D 590 Basic Data Science OnRamp and DSCI-D 590 Advanced Data Science On-Ramp
+
+31
+
+Managerial Data Science Track Sample Schedule of Courses
+The following is a sample schedule of courses for the Managerial Data Science Track. Students
+should consult with their advisor and the Director of Graduate Studies in order to select courses
+that will best support their plans and career goals.
+Sample Schedule of Courses
+Fall Year 1 (9 cr.)
+
+Spring Year 1 (9 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Core Course (3 cr.)
+
+Elective (3 cr.)
+
+Fall Year 2 (9 cr.)
+
+Spring Year 2 (3 cr.)
+
+Core Course (3 cr.)
+
+Capstone Project (3 cr.)
+
+Core Course (3 cr.)
+
+Elective (3 cr.) (optional)
+
+Elective (3 cr.)
+
+Elective (3 cr.) (optional)
+
+32
+
+Managerial Data Science Track Course Checklist form
+Core Requirement (21 credit hours)
+Statistical Methods (3 cr.)
+Machine Learning, Data Mining, and Text
+Mining (3 cr.)
+SPEA-V 506 Statistical Analysis for Effective
+CSCI-B 505 Applied Algorithm
+Decision-making
+STAT-S 520 Introduction to Statistics
+CSCI-B 551 Elements of Artificial Intelligence
+Data Visualization and Storytelling (3 cr.)
+CSCI-B 555 Machine Learning
+ENGR-E 583 Information Visualization
+CSCI-B 561 Advanced Database Concepts
+ENGR-E 584 Scientific Visualization
+CSCI-B 565 Data Mining
+INFO-I 590 Topic: Data Visualization
+CSCI-B 657 Computer Vision
+Management in Theory (6 cr.)
+CSCI-P 556 Applied Machine Learning
+ILS-Z 513 Organizational Informatics
+ENGR-E 511 Machine Learning for Signal
+Processing
+ILS-Z 645 Social and Organizational Informatics
+ILS-Z 534 Search
+of Big Data
+ILS-Z 604 Topic: Social and Ethical Impacts of
+INFO-I 513 Usable Artificial Intelligence
+Big Data
+Management in Practice (6 cr.)
+INFO-I 606 Network Science
+ILS-Z 512 Information Systems Design
+ILS-Z 556 Systems Analysis and Design
+ILS-Z 586 Digital Curation
+Capstone Project (3 credit hours)
+Electives (6 credit hours)
+DSCI-D 590 Topic: Faculty Assistance in Data
+Science
+DSCI-D 591 Graduate Internship
+DSCI-D 592 Data Science in Practice
+DSCI-D 699 Independent Study in Data Science
+INFO-I 590 Topic: LAIDEL
+ILS-Z 690 Capstone in Information Architecture
+MGEN-Q 581 Introduction to Quantitative
+Biomedical Sciences (IU Indianapolis)
+
+33
+
+6. Capstone
+Independent Study (DSCI-D 699)
+Independent study classes and all research classes taken prior to entering candidacy require that the
+student and the instructor define the study, including the deliverables. Students need to identify a faculty
+advisor who is willing to supervise the study, and complete the Independent Study Request Form.
+https://luddy.indiana.edu/academics/grad-programs/graduate-forms/data-science-independent-studyrequest-form.html
+The Luddy Graduate Studies Office will process the form and notify students by email of any issues or
+that students may proceed with registration for the term. Students then register for courses via
+one.iu.edu.
+
+Other Programs
+Faculty Assistance in Data Science (FADS)
+https://research.iu.edu/funding-proposals/funding/opportunities/faculty-assistance-in-datascience/index.html
+https://ssrc.indiana.edu/news-events/_news/news-2021-03-22-fads.html
+Data Science South Korea/U.S. Global Lab (DSKUS)
+https://datascience.indiana.edu/programs/residential/south-korea-us-global-lab-program.html
+Indiana Genomics Research Training Program for Data Scientists (INGEN4DS)
+https://medicine.iu.edu/research-centers/computational-biology-bioinformatics/education/genomicsresearch-training
+
+7. Other Resources
+Online
+Any course substitution or exception must be approved in advance. Email the Luddy Graduate Studies
+Office for additional information (gradvise@indiana.edu).
+
+Course Substitution and Exceptions
+Any course substitution or exception must be approved in advance. Email the Luddy Graduate Studies
+Office for additional information (gradvise@indiana.edu).
+
+Grades
+The minimum overall GPA of a grade of B (3.0) for all Ph.D. Informatics courses is required. A student
+whose semester GPA falls below a grade of B (3.0) will be put on probation. The student must raise their
+semester and cumulative grade point average to a B (3.0) or higher by the end of the following semester.
+Failure to do so in two consecutive semesters (excluding summer) may result in academic dismissal from
+the program.
+
+34
+
+Grade Appeals
+If a student believes there has been an error in calculating the final grade in a course, the student may
+appeal that grade. For information on the grade appeal process, please follow the instructions provided
+by the Student Advocates Office at https://studentaffairs.indiana.edu/studentsupport/advocates/help/academic-help/changes-appeals.html.
+
+Academic Probation
+A student will be placed on academic probation if the student’s cumulative or semester GPA falls below a
+3.0 and/or if a student fails to make satisfactory progress in the program. To return to satisfactory
+progress status, students must bring their cumulative and semester grade point averages to 3.0 or higher
+by the end of the next semester. Failure to do so may result in academic dismissal from the program.
+
+Registering for Classes
+To help with the registration process, students are given a Course Planning Checklist. Students meet with
+their advisor prior to registering to plan courses for the upcoming semester. The student may email
+gradvise@indiana.edu to schedule an appointment.
+Some courses require course permission from the instructor and/or the department prior to enrollment.
+This information is found in the Schedule of Classes which is located at
+http://registrar.indiana.edu/calendars/schedule-of-classes.shtml. If the course is listed as requiring
+permission from the instructor or the department, students must contact via email the instructor and/or the
+department listed for the course to obtain permission. The email reply must be forwarded to
+gradvise@indiana.edu.
+Instructions for how to register are found at websites for Student Central
+https://studentcentral.indiana.edu/register/steps-register/index.html and the Enrollment and Student
+Academic Information Bulletin https://enrollmentbulletin.indiana.edu/pages/index.php
+
+How to Register for courses and enrollment at the shopping center?
+To register for classes, a student will need their IU network ID username, passphrase, and DUO to log
+into one.iu.edu.
+How to Register for Classes and Enrollment Shopping Cart (https://kb.iu.edu/d/anig)
+●
+●
+●
+●
+
+●
+
+Determining whether students have holds on their record (https://kb.iu.edu/d/anig#holds)
+Viewing class permissions (https://kb.iu.edu/d/anig#perm)
+Using the Enrollment Shopping Cart (https://kb.iu.edu/d/anig#cart)
+○ Adding classes (https://kb.iu.edu/d/anig#adding)
+○ Registering from the shopping cart (https://kb.iu.edu/d/anig#regcart)
+Using Class Registration (https://kb.iu.edu/d/anig#regdrop)
+○ Registering for classes (https://kb.iu.edu/d/anig#regclass)
+○ Dropping a class (https://kb.iu.edu/d/anig#dropclass)
+○ Editing classes with variable credit (https://kb.iu.edu/d/anig#variable)
+○ Swapping classes (https://kb.iu.edu/d/anig#swapping)
+Viewing class schedule details (https://kb.iu.edu/d/anig#det)
+
+Additional steps on how to register are available through the UITS Knowledge Base:
+http://www.kb.iu.edu/data/anig.html.
+
+35
+
+Class Permissions
+Any deviations from a student’s approved Course Registration Form requires that the student request
+approval from the advisor or from the program director if the course to be dropped/added is a program
+core course or otherwise required. Approval should then be conveyed in writing (email or signed
+document) to the Luddy Graduate Studies Office, gradvise@indiana.edu.
+Fees/Refund. Starting two business days after the student’s initial registration, a system access fee will
+be charged every calendar day the student makes one or more successful adjustments to their schedule.
+A late schedule change fee will also be assessed for each course dropped after the first week of classes.
+The late schedule change fee also applies to a section change, a change of arranged hours, or an audit
+change.
+Students are responsible for paying all drop and add fees. 100% of tuition is refunded for a course
+dropped during the first week of classes. After the first week, the amount of tuition refunded (if any) for a
+dropped course depends on the type of session the course is and when the course is dropped.
+Students can refer to the IU Academic Calendar for the enrollment and fee schedules.
+https://registrar.indiana.edu/official-calendar/
+
+Waitlist
+If a course is shown as full, the student should add themselves to the waitlist, which serves as a
+placeholder in the registration line. When students who enrolled in the course drop or when the
+enrollment cap is expand-ed, students on the waitlist will be admitted into the course in order. Note: The
+waitlist runs for the last time on the Thursday of the first week of classes. The Drop if Enroll feature allows
+a student to enroll in another course while waitlisted for their course of first preference. Students must
+remember to cancel this feature if they decide to remain in the class of their second choice. The Swap
+feature allows a student to delay dropping a course until they are safely enrolled in their new class.
+
+Class Withdrawal
+During the automatic withdrawal period (see the Registrar’s Official Calendar for exact dates), students
+who withdraw will be assigned an automatic grade of W. After that period, withdrawals are only possible
+with approval from the Dean, which is normally given only for urgent reasons such as illness. Instructors
+may award a grade of F for a student who is failing and withdraws after the automatic withdrawal period.
+
+Bursar Bill
+Tuition, fees, and all other charges (e.g., IU Health Center, IU Library) are billed to the student on their
+Bursar bill. Payments are due the 10th of the month. For a list of the Bursar Bill Due Dates go to
+https://studentcentral.indiana.edu/pay-for-college/pay-bill/due-dates.html.
+To pay the Bursar bill, students may pay in person at the Poplars Building from 9:00 a.m. to 4:30 p.m. on
+weekdays (except holidays). See the alternative payment methods at Payment Options,
+https://studentcentral.indiana.edu/pay-for-college/pay-bill/payment-options/index.html.
+
+Graduation
+All graduate students are encouraged to participate in Commencement. Indiana University hosts two
+university wide commencement events – Winter and Spring. The majority of the students attend the
+Spring Commencement. Students who finish their degree during the fall can attend the Winter or Spring
+Commencement. The solemn yet colorful academic pageantry can provide a fitting culmination to a
+period of intense study and work.
+
+36
+
+Visit https://commencement.indiana.edu/index.html for detailed information. Be sure to watch for these
+emails as many of the deadlines are time sensitive.
+In addition to Indiana University’s Commencement Event, the Luddy School of Informatics, Computing,
+and Engineering hosts a Celebration Event. Be sure to watch for these emails as many of the deadlines
+are time sensitive.
+
+Diplomas
+Diplomas will read “Master of Science in Data Science.”
+
+Transcripts
+Transcripts will read “Master of Data Science.”
+
+Full-time Status and Part-time Status
+A student must be enrolled in a minimum of eight (8) credit hours each semester to be considered fulltime. Audited courses are not counted in the definition of “full-time study.” It is imperative that international
+students maintain full-time status to remain in visa compliance. For questions about visa compliance,
+contact the Office of International Services (ois@iu.edu).
+Approval must be given for a student to be enrolled as a part-time student (less than 8 credit hours).
+Email the Luddy Graduate Studies Office for additional information (gradvise@indiana.edu).
+
+Leave of Absence
+A leave of absence allows Informatics graduate students to deal with unforeseen events that interfere
+with their academic progress. During a leave, the student is not expected to make progress toward the
+degree. Although the student may complete coursework from previous terms during a leave, the student
+may not attend class or use the leave to catch up on current coursework, prepare for exams, work on the
+capstone, and/or the master’s thesis project.
+To be eligible for a leave, the student must be enrolled full time in an Informatics graduate program and
+have completed at least one semester (a minimum of nine credit hours) in the program. The student must
+be in good academic standing—if they are on academic probation, they are not eligible for a leave.
+Approval must be given for a student to take a leave of absence (less than 8 credit hours). Email the
+Luddy Graduate Studies Office for additional information (gradvise@indiana.edu).
+
+Important Student Resources
+Throughout this handbook, you will see references to the following important websites, forms, and other
+resources:
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+ACM Code of Ethics and Professional Conduct
+Indiana University Code of Student Rights, Responsibilities, and Conduct
+Indiana University Graduate School Bulletin
+Degree Programs
+Graduate Program Courses
+Indiana Graduate Student Academic Appointees Guide
+Indiana University Office of International Services (Email: ois@iu.edu)
+one.iu.edu
+University Graduate School (UGS)
+
+37
+
+Luddy Graduate Studies Office Contact
+Luddy Graduate Student Office (GSO)
+Luddy Hall, Room 1113
+700 N Woodlawn Ave
+Bloomington, Indiana 47408
+Advising: gradvise@indiana.edu
+Admissions: GoLuddy@iu.edu
+Luddy Graduate Studies Office (GSO) is committed to supporting graduate students from admissions to
+graduation. Luddy GSO can assist with questions about:
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Graduate Admissions
+New Student Orientation
+Academic Graduate Policies
+Program Administrative Forms
+Transfer Credit Requests
+Grade Changes
+Degree Audits
+Ph.D. interested in getting MS/MA
+Under Enrollment Requests
+Probation Issues
+Registration (late/add/drop/withdraw)
+Leave of Absence
+Advising Holds
+Program Transfer within SICE
+Student Travel
+A11 Holds
+R10 Immunizations
+V03 Academic Hold
+Fee Waiver Requests
+International Student Services
+○ CPT/OPT e-form requests
+○ Academic Training Requests
+○ Under enrollment permission
+○ I-20 Extensions
+
+38
+
+
