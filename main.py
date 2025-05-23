@@ -69,7 +69,7 @@ def setup_sidebar():
                     test_response.raise_for_status()
 
                     st.session_state.ready_to_proceed = True
-                    st.success("✅ All API keys are valid. You may proceed.")
+                    st.success("All API keys are valid. You may proceed.")
                 except Exception as e:
                     st.session_state.ready_to_proceed = False
                     st.error(f"API key validation failed: {e}")
