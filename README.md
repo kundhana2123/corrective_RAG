@@ -31,6 +31,10 @@ Google API Key and CSE ID (for Google Custom Search)
 streamlit run main.py
 
 ## Execution
-I have uploaded data science handbook. And then user asked a question within the document. Answer is retrived<br>
-When a user's question is outside the uploaded knowledge base, it automatically triggers a web search using Google Custom Search API.
+I have uploaded data science handbook. And then user asked a question within the document. Answer is retrived 
+
+![Image](https://github.com/user-attachments/assets/017c0a63-eebb-456b-b1e0-ff535b16e9c7)<br><br><br>
+When a user's question is outside the uploaded knowledge base, it automatically triggers a web search using Google Custom Search API. 
+
+![Image 1](https://github.com/user-attachments/assets/b26fda48-282b-4fb4-b0e0-662753b1c4e0)
 
